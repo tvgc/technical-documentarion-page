@@ -1,0 +1,10 @@
+@charset "utf 08";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+/*criar grid para o site onde o nav-bar irá ficar à esquerda do site quando a visualização estiver com screen de monitor. O html por enquanto está ok com o lorem*/
