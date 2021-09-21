@@ -7,17 +7,7 @@
     /* border: 1px solid black */;
 }
 
-body {
-    /* display: grid;
-    grid-template-columns: 300px 1fr;
-    grid-template-rows: minmax(auto 100vh) 1fr;
-    grid-template-areas: 
-        "aside main"
-        "aside main"; */
-}
-
-.nav-bar {
-    /* grid-area: aside; */
+.navbar {
     position: fixed;
     top: 0px;
     left: 0px;
@@ -25,11 +15,10 @@ body {
     height: 100%;
 }
 
-.content {
-    /* grid-area: main; */
-    
+.content {    
     margin-left: 300px;
-    
 }
 
-/*criar grid para o site onde o nav-bar irá ficar à esquerda do site quando a visualização estiver com screen de monitor. O html por enquanto está ok com o lorem*/
+.content__header {
+    
+}
